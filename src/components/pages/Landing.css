@@ -1,0 +1,9 @@
+/* Component specific css goes in this file  */
+.link {
+  color: azure;
+}
+
+.logo {
+  height: 15vmin;
+  pointer-events: none;
+}
